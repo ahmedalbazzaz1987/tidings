@@ -1,0 +1,5 @@
+build/
+build.log
+sync.tgz
+.DS_Store
+*.xcuserstate
